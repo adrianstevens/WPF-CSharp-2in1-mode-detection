@@ -170,7 +170,5 @@ namespace _2in1.WPF
 
         SM_CONVERTABLESLATEMODE = 0x2003, 
         SM_SYSTEMDOCKED = 0x2004,
-
-        
     }
 }
